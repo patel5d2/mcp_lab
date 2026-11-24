@@ -1,0 +1,4 @@
+# IT7075 MCP Lab — pinned dependencies
+fastmcp>=2.0
+mcp>=1.0
+openai>=1.0
